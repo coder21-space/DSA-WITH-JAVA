@@ -1,3 +1,7 @@
+![Language](https://img.shields.io/badge/Language-Java-blue)
+![Repo Size](https://img.shields.io/github/repo-size/yourusername/DSA-Java)
+![Last Commit](https://img.shields.io/github/last-commit/yourusername/DSA-Java)
+
 # Java DSA Practice 🚀
 
 This repository contains my **Data Structures and Algorithms (DSA)** practice in **Java**, following **Apna College Sigma 7.0** and other standard resources.  
