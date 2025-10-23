@@ -36,7 +36,7 @@ The structure is organized *topic-wise* for clean learning and quick revision.
 
 ## 📆 Progress Log
 - **Day 1:** Basics – Hello World
-- **Day 1:** stick to basic 
+- **Day 2:** stick to basic 
 
 
 ## 🛠️ Tools Used
