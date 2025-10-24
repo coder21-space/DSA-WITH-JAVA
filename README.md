@@ -35,8 +35,9 @@ The structure is organized *topic-wise* for clean learning and quick revision.
 ---
 
 ## 📆 Progress Log
-- **Day 1:** Basics – Hello World
-- **Day 2:** stick to basic 
+- **Day 1:** java programming setup ,flowchart ,pesudocode & basic hello world
+- **Day 2:** basic java programing ,variable & data type 
+- **Day 3:** still stick to basic ,operators
 
 
 ## 🛠️ Tools Used
