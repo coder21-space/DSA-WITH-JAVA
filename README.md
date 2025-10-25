@@ -38,6 +38,8 @@ The structure is organized *topic-wise* for clean learning and quick revision.
 - **Day 1:** java programming setup ,flowchart ,pesudocode & basic hello world
 - **Day 2:** basic java programing ,variable & data type 
 - **Day 3:** still stick to basic ,operators
+- **Day 4:** still basic question(i know maybe its look to slow but turst me my comeback too stronger)
+- **Day 5:** conditional statement problem ,finally little bit logical question we started
 
 
 ## 🛠️ Tools Used
