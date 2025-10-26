@@ -40,12 +40,17 @@ The structure is organized *topic-wise* for clean learning and quick revision.
 - **Day 3:** still stick to basic ,operators
 - **Day 4:** still basic question(i know maybe its look to slow but turst me my comeback too stronger)
 - **Day 5:** conditional statement problem ,finally little bit logical question we started
+- **Day 6:** complete conditional staetement playlist
 
 
 ## 🛠️ Tools Used
 - **Language:** Java  
 - **IDE:** VS Code  
-- **Version Control:** Git & GitHub  
+- **Version Control:** Git & GitHub 
+
+## pending work
+1) variable and data type :-type convertion ,type casting ,type promotion expression
+2) operator:- questions not solved fully 
 
 ---
 
