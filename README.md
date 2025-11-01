@@ -41,6 +41,7 @@ The structure is organized *topic-wise* for clean learning and quick revision.
 - **Day 4:** still basic question(i know maybe its look to slow but turst me my comeback too stronger)
 - **Day 5:** conditional statement problem ,finally little bit logical question we started
 - **Day 6:** complete conditional staetement playlist
+- **Day 7:** start loops concepts basic
 
 
 ## 🛠️ Tools Used
@@ -51,6 +52,7 @@ The structure is organized *topic-wise* for clean learning and quick revision.
 ## pending work
 1) variable and data type :-type convertion ,type casting ,type promotion expression
 2) operator:- questions not solved fully 
+3) loops playlist not finished 
 
 ---
 
