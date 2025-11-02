@@ -42,6 +42,7 @@ The structure is organized *topic-wise* for clean learning and quick revision.
 - **Day 5:** conditional statement problem ,finally little bit logical question we started
 - **Day 6:** complete conditional staetement playlist
 - **Day 7:** start loops concepts basic
+- **Day 7:** do break an continue statements problem also mind exhausted on check prime no que 
 
 
 ## 🛠️ Tools Used
@@ -53,6 +54,7 @@ The structure is organized *topic-wise* for clean learning and quick revision.
 1) variable and data type :-type convertion ,type casting ,type promotion expression
 2) operator:- questions not solved fully 
 3) loops playlist not finished 
+4) loops questions &prime number check que not finished
 
 ---
 
