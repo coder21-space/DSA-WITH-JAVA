@@ -43,6 +43,7 @@ The structure is organized *topic-wise* for clean learning and quick revision.
 - **Day 6:** complete conditional staetement playlist
 - **Day 7:** start loops concepts basic
 - **Day 7:** do break an continue statements problem also mind exhausted on check prime no que 
+- **Day 8:** complete basic pattern problem
 
 
 ## 🛠️ Tools Used
@@ -55,6 +56,7 @@ The structure is organized *topic-wise* for clean learning and quick revision.
 2) operator:- questions not solved fully 
 3) loops playlist not finished 
 4) loops questions &prime number check que not finished
+5) pattern question not done yet
 
 ---
 
