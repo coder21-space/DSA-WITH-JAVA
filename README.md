@@ -42,8 +42,10 @@ The structure is organized *topic-wise* for clean learning and quick revision.
 - **Day 5:** conditional statement problem ,finally little bit logical question we started
 - **Day 6:** complete conditional staetement playlist
 - **Day 7:** start loops concepts basic
-- **Day 7:** do break an continue statements problem also mind exhausted on check prime no que 
-- **Day 8:** complete basic pattern problem
+- **Day 8:** do break an continue statements problem also mind exhausted on check prime no que 
+- **Day 9:** complete basic pattern problem
+- **Day 10:** start function in  java
+
 
 
 ## 🛠️ Tools Used
