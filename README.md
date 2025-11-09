@@ -45,6 +45,7 @@ The structure is organized *topic-wise* for clean learning and quick revision.
 - **Day 8:** do break an continue statements problem also mind exhausted on check prime no que 
 - **Day 9:** complete basic pattern problem
 - **Day 10:** start function in  java
+- **Day 10:** almost end functions 
 
 
 
@@ -59,6 +60,8 @@ The structure is organized *topic-wise* for clean learning and quick revision.
 3) loops playlist not finished 
 4) loops questions &prime number check que not finished
 5) pattern question not done yet
+6) function prime or decimal pending +que 
+7) backlog too much so first finished backlog then going forword
 
 ---
 
